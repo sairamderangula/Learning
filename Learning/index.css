@@ -1,0 +1,9 @@
+.bg{
+    background-color: silver;
+    height: 40px;
+    width: 40px;
+    margin-right: 100%;
+}
+body{
+    background-color: aqua;
+}
